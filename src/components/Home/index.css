@@ -1,0 +1,21 @@
+.counter-card{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(28, 28, 32);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.light-counter-card{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(230, 225, 225);
+    color: dark;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}

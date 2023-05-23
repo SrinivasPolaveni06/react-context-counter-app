@@ -1,0 +1,30 @@
+button{
+    
+    color: white;
+    border: 0px;
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    text-align: center;
+    
+    font-size: 30px;
+}
+.decrease{
+    background-color: brown;
+}
+.inrease{
+    background-color: green;
+    margin-right: 60px;
+}
+.theame{
+    color: black;
+    border: 0px;
+    width: 220px;
+    height: 40px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: transparent;
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: 800;
+}
